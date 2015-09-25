@@ -1,0 +1,46 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #181818;
+}
+body {
+	background-color: #e07e1d;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/taling.jpg);
+	background-repeat:repeat-x;
+}
+.bkg_left{
+background-image:url(images/left.jpg);background-repeat:no-repeat;background-position:right;
+}
+.bkg_right{
+background-image:url(images/right.jpg);background-repeat:no-repeat;
+}
+.afterheader{
+background-image:url(images/afterheader.jpg);background-repeat:no-repeat;
+}
+.style1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.bodytal{
+background-image:url(images/tophp.jpg);background-repeat:repeat-y;
+}
+
+.abc{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #C0C0C0;
+	text-shadow: #181818 0.1em 0.1em 0.2em;
+	text-align:left  
+   	
+	
+}
+
+.reflection{        
+        -webkit-box-reflect:below 2px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.85, transparent), to(white));
+  
+}  

@@ -1,0 +1,110 @@
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #181818;
+}
+
+p
+{
+	font-family:Calibri;
+	
+	}
+body {
+	background-color: #c94d05;
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-image: url(images/taling.jpg);
+	background-repeat:repeat-x;
+}
+.bkg_left{
+background-image:url(images/left.jpg);background-repeat:no-repeat;background-position:right;
+}
+.bkg_right{
+background-image:url(images/right.jpg);background-repeat:no-repeat;
+}
+.afterheader{
+background-image:url(images/afterheader.jpg);background-repeat:no-repeat;
+}
+.style1 {
+	font-size: 24px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.bodytal{
+background-image:url(images/tophp.jpg);background-repeat:repeat-y;
+}
+
+.abc{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	color: #C0C0C0;
+	text-shadow: #181818 0.1em 0.1em 0.2em;
+	
+	text-align:left  
+}
+
+.cde{
+      text-align:left;
+}
+
+
+.playerlist th
+{
+	background-image:url(images/list.png);
+	vertical-align:middle;
+	}	
+.playerlist a
+{
+	text-decoration:none; font-size:14px;
+	font-weight:bold;
+	color:#FFF;
+	}
+.bcd{
+	background-image:url(images/sc.jpg);background-repeat:repeat-x;
+	color:#FFF;
+	text-decoration:none;
+	
+}
+
+.bcdh th{
+	background-image:url(images/scu.jpg);
+	background-repeat:repeat-x;
+	color:#EEE;
+
+	background-position:top;
+	background:
+}
+
+
+.reflection{        
+        -webkit-box-reflect:below 2px -webkit-gradient(linear, left top, left bottom, from(transparent), color-stop(0.85, transparent), to(white));
+  
+}  
+
+
+.footer
+{
+	background-image:url(images/footer.png);background-repeat:no-repeat;
+	color:#FFF;
+	text-decoration:none;
+	
+}
+.footer a{color:#FFF}
+
+.morenews{}
+
+.morenews a{ text-decoration:none ;color:#000F53; font-size:12px}
+
+.morenews a:hover{ text-decoration:underline ; color:#000}
+
+.morenews th{ color:#009 }
+
+.morenews hr{border:thin;
+border-bottom-style:dotted
+	
+	}
+	
+.pqr a{ text-decoration:none ;color:#000F53; font-size:18px}
+
